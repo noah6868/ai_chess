@@ -14,7 +14,7 @@ pytorch.py：策略价值网络的实现
 
 train.py：模型训练（模型已经训练好）
 
-模型文件太大上传不了，需要现运行collect.py,再运行train.py,最后运行UIplay.py开始和AI象棋对弈
+模型已经训练完毕，可以直接点击UIplay.py运行文件
 
 
 
